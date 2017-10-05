@@ -11,4 +11,4 @@ Applications:
 * so much more...
 
 
-**Project is great example of pointers in c. It uses pointers in many ways **
+**Project is great example of pointers in c. It uses pointers in many ways**
